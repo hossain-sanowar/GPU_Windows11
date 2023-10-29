@@ -1,10 +1,22 @@
 # GPU_Windows11
 1. install Visual Studio 2022: https://visualstudio.microsoft.com/vs...
 2. install NVIDIA CUDA: https://developer.nvidia.com/cuda-too...
-3. Copy file and paste in CUDA: NVIDIA CUDNN:  https://developer.nvidia.com/rdp/cudn...
-4. install PyTorch : https://pytorch.org/get-started/locally/
+3. Copy the file and paste in CUDA: NVIDIA CUDNN:  https://developer.nvidia.com/rdp/cudn...
+4. install PyTorch: https://pytorch.org/get-started/locally/
 5. install https://www.tensorflow.org/install/pip
-6. pip install "tensorflow<2.11" 
+6. pip install "tensorflow<2.11"
+
+# command for installation process
+1. install VsCode community
+2. Install Nvidia Cuda tooltkits
+3. Copy all files from Nvidia cuDNN like bin, include, x64, and paste in CUDA file location
+4. Install Miniconda
+5. Create a conda environment
+6. Check the python version
+7. Install TensorFlow below version 11
+8. conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
+9. Verify the installation CPU and GPU
+10. pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 this is CLI command
 # git documents
 
