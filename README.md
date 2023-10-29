@@ -1,3 +1,6 @@
+# video link
+https://www.youtube.com/watch?v=r7Am-ZGMef8
+
 # GPU_Windows11
 1. install Visual Studio 2022: https://visualstudio.microsoft.com/vs...
 2. install NVIDIA CUDA: https://developer.nvidia.com/cuda-too...
