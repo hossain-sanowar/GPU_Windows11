@@ -6,18 +6,18 @@ https://www.youtube.com/watch?v=r7Am-ZGMef8
 2. install NVIDIA CUDA: https://developer.nvidia.com/cuda-too...
 3. Copy the file and paste in CUDA: NVIDIA CUDNN:  https://developer.nvidia.com/rdp/cudn...
 # Tensorflow
-4. ´´´
+4. ```
 5.  pip install "tensorflow<2.11"
 6.
-7. ´´´
+7. ```
 8.  # Pytorch
 9. install PyTorch: https://pytorch.org/get-started/locally/
 10. install https://www.tensorflow.org/install/pip
 
-´´´
+```
 pip3 install torch torchvision torchaudio --index-url
 
-´´´
+```
 
 # command for installation process
 1. install VsCode community
