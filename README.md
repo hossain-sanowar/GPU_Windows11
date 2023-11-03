@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=r7Am-ZGMef8
 install https://www.tensorflow.org/install/pip
  ```
 pip install "tensorflow<2.11"
+conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 ```
 # Pytorch
 9. install PyTorch: https://pytorch.org/get-started/locally/
